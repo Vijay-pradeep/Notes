@@ -1,0 +1,10 @@
+Active Directory (AD) is a directory service developed by Microsoft for Windows domain networks. It is included in most Windows Server operating systems as a set of processes and services. Initially, Active Directory was used only for centralized domain management. However, Active Directory eventually became an umbrella title for a broad range of directory-based identity-related services.
+
+Active Directory uses Lightweight Directory Access Protocol (LDAP) versions 2 and 3, Microsoft's version of Kerberos,and DNS
+
+There are 5 topics in Active Directory:
+Object : These are actually endpoints like person,printer,Employee ID, 
+Domain : This can be root domain, sub domain
+Tree : Inter connection of all the items in the AD in a tree format fro example - Parent and child process used every time
+OU : These are group of objects defined under a specific name 
+Forest : These are combination of two or multiple trees
