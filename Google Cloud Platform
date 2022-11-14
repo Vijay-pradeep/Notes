@@ -7,3 +7,30 @@ Why GCP ?
 - Big Data Analytics
 - API Platform and Ecosystem
 - Internet Of Things
+
+X-------------------------------X
+
+AWS vs Azure vs GCP
+
+AWS : 
+32% of cloud market.
+80 Availability Zones along with 25 geographic region around the world
+Comp : 
+Netflix, Mc Donalds Coco cola, Unilever, Adobe, ESPN
+Compute Services : Amazon EC2
+Storage Services : S3 for Object storage, EBS for Block Storage, EFS for file storage.
+
+Azure:
+20% of total cloud share.
+60+ region with each having least 3 availability zones.
+Comp: Samsumg, HP BMW, Pixar
+Compute Services : Azure VM
+Storage Services : Azure storage includes object, file disk, queue and table storage. They also have specialized services.
+
+GCP:
+9% of total cloud share.
+spans accross 25 regions, with 76 zones and available to usrs from 200+ countries and territories.
+Comp:Paypal, Twitter, P&G, King
+Compute Services : Google Compute Engine
+Storage Services : Cloud storage for Object storage, Persistent storage for block storage, File store for file storage.
+ 
