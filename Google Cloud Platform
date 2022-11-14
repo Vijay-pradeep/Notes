@@ -19,6 +19,7 @@ Comp :
 Netflix, Mc Donalds Coco cola, Unilever, Adobe, ESPN
 Compute Services : Amazon EC2
 Storage Services : S3 for Object storage, EBS for Block Storage, EFS for file storage.
+Pricing : Aws Charges on Hourly Basis
 
 Azure:
 20% of total cloud share.
@@ -26,6 +27,7 @@ Azure:
 Comp: Samsumg, HP BMW, Pixar
 Compute Services : Azure VM
 Storage Services : Azure storage includes object, file disk, queue and table storage. They also have specialized services.
+Pricing : Azure Charges on Minute Basis
 
 GCP:
 9% of total cloud share.
@@ -33,4 +35,4 @@ spans accross 25 regions, with 76 zones and available to usrs from 200+ countrie
 Comp:Paypal, Twitter, P&G, King
 Compute Services : Google Compute Engine
 Storage Services : Cloud storage for Object storage, Persistent storage for block storage, File store for file storage.
- 
+ Pricing : GCP Charges on per second billing Basis
