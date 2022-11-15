@@ -35,3 +35,68 @@ Comp:Paypal, Twitter, P&G, King
 Compute Services : Google Compute Engine
 Storage Services : Cloud storage for Object storage, Persistent storage for block storage, File store for file storage.
  Pricing : GCP Charges on per second billing Basis
+
+X----------------------------------------X
+
+Developer and Management Tools
+    
+- Developer Tools
+        Cloud SDK
+        Deployment Manager
+        Cloud Source Repositories
+        Cloud Tools for Android Studio
+        Cloud Tools fot Intellij
+        Cloud Tools for power shell
+        Cloud Tools for Visual Studio
+        Google Plug-in for Eclipse
+        Cloud Test Lab
+ - Management Tools
+        Stackdriver
+        Monitoring
+        Logging
+        Error Reporting
+        Trace
+        Debugger
+        Cloud Shell
+        Cloud Mobile App
+        Deployment Manager
+        Cloud APIs
+        Cloud Endpoints
+        Cloud Console
+
+|-------------------------------|
+
+Compute Services
+    Compute Engine
+    App Engine (PAAS)
+    Container Engine
+    Container Registry
+    Cloud Functions
+
+|-------------------------------|
+
+Storage Services
+    Cloud Storage
+    Cloud Big Table
+    Cloud Data Store
+    Cloud SQL
+    Persistent Disk
+
+|-------------------------------|
+
+Network Services
+    Cloud Virtual Network
+    Cloud Load Balancing
+    Cloud CDN
+    Cloud DNS
+
+|-------------------------------|
+
+Security Services
+    Cloud resource Manager
+    Cloud IAM
+    Cloud Security Scanner
+    Cloud Platform Security
+
+|-------------------------------|
+
