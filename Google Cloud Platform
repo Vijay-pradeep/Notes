@@ -15,8 +15,7 @@ AWS vs Azure vs GCP
 AWS : 
 32% of cloud market.
 80 Availability Zones along with 25 geographic region around the world
-Comp : 
-Netflix, Mc Donalds Coco cola, Unilever, Adobe, ESPN
+Comp : Netflix, Mc Donalds Coco cola, Unilever, Adobe, ESPN
 Compute Services : Amazon EC2
 Storage Services : S3 for Object storage, EBS for Block Storage, EFS for file storage.
 Pricing : Aws Charges on Hourly Basis
