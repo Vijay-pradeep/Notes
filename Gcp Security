@@ -1,0 +1,83 @@
+Core fundamendals
+    Resources and Access in cloud
+        Hirerachy
+            1. Organisation
+            2. Folders
+            3. Project
+            4. Resources 
+    Virtual machines and Network in cloud
+        Virtual private cloud
+            Connect google cloud resources to eachother and to the internet
+            Segmenting networks
+            using firewall rules to restrict access to instances
+            Create static routes to forward traffic to specific destinations
+            They are global and can have subnets in any google region worldwide
+            Compatibilities
+                Routing tables anre built-in
+                No router provisining or managing
+                Forward traffic from one instance to another
+                No external IP address required
+                Firewalls
+                    Can be defined using network tag
+            Type services
+                VPC PEERING
+                    VPC to VPC
+                SHARED VPC
+                    Vpc to other services like IAM
+        Compute Engine
+            VM
+            Can be configured like a physical server
+            Can be created via google cloud console, the google cloud CLI , or the compute engine API
+            can run linux and windows server images
+            can built and run images of other operating systemand flexibily reconfigure VMs
+            Choosing the type needed to be used 
+                Sustained use
+                Committed-use discounts
+                Preemptible & spot VMs
+                    Running jobs
+                    runtime u to 24h
+        Scaling
+            Auto Scaling 
+        Cloud Load Balancing
+            Fully distributed, Software defined, managed services
+            Supports scaling
+            You can put cloud load balancing infront of your traffic
+                HTTP(S)
+                TCP traffic
+                SSL traffic
+                UDP traffic
+            No "Pre warming" is required for anticipated spikes in traffic.
+            Types
+                Global HTTP(S)
+                Global SSL Proxy
+                Global TCP Proxy
+                Regional
+                Regional Internal
+        DNS
+            Cloud DNS
+            Low latency
+            High availability
+            cost effective
+            They are programmable, also can publish and manage millions of DNS zones and records using google cloud console. the command line interface or API
+        CDN
+            Edge cache - Has Global system of edge caches
+            low latency
+            reduced load
+        Connecting Other Network with Google VPC
+            IPSEC VPN Protocol
+                Uses Cloud Router to make the connection dynamic
+                Lets other network and google VPC exchange route information over the vpn using the Border Gateway protocol
+                Not always the best option because of security conserns or bandwidth reliability
+                Using this if you add a new subnet to yor Google VPC your ON-Permises network will get automatically routes to it.
+            Direct Peering
+                Putting a router in the same public datacenter as a google point of presence(POP)
+                Using router to exchange traffic between networks
+                More than 100 google points of presence around the world
+            Carrier Peering
+                Gives direct access from an on-permises network through a service provider network
+                Not covered by Google service level lead agreement
+            Dedicacted Interconnect
+                Allows one or more direct ,private connections to googel
+                Can be covered by up to 99.99% SLA
+                Conncetions can be bcaked up by a VPN
+            Partner Interconnect
