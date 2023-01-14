@@ -4,3 +4,7 @@ https://www.hackers-arise.com/
 https://www.enisa.europa.eu/topics/training-and-exercises/trainings-for-cybersecurity-specialists/online-training-material
 https://www.freecodecamp.org/learn/information-security/
 https://learn.saylor.org/my/
+The RedTeam Blueprint - A Unique Guide To Ethical Hacking - Udemy
+OSINT: Open-Source Intelligence 1 and 2  - Udemy
+Getting Started with Windows Server 2022 - Windows server adminsitration
+Servers - Eli the computer guy
