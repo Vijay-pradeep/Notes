@@ -8,3 +8,26 @@ The RedTeam Blueprint - A Unique Guide To Ethical Hacking - Udemy
 OSINT: Open-Source Intelligence 1 and 2  - Udemy
 Getting Started with Windows Server 2022 - Windows server adminsitration
 Servers - Eli the computer guy
+
+
+
+🎉 Free Cybersecurity Courses Alert! 🤖💻🔒
+
+Are you looking to kickstart your cybersecurity learning journey or expand your knowledge in the field? Look no further than these free short courses from Charles Sturt University!
+
+💡Learn about cutting-edge topics like Cyber Warfare and Terrorism, Incident Response, Cryptography, Digital Forensics, and much more!
+
+👨‍🎓 The courses are well-structured, easy to follow, and packed with useful information. Highly recommend them to anyone interested in cybersecurity.
+
+👉 CISM: https://lnkd.in/e_bAr-Ar
+👉 CISSP: https://lnkd.in/eV3CYMZQ
+👉 Cyber Warfare and Terrorism: https://lnkd.in/efiEcAuP
+👉 Computer Network Fundamentals: https://lnkd.in/eyaBnwvk
+👉 Cryptography: https://lnkd.in/dvSws6vF
+👉 Detecting and Defending against Cyber Threats: https://lnkd.in/gJFU_Dt
+👉 Digital Forensics: https://lnkd.in/eJfarUg
+👉 Enterprise Cyber Security Fundamentals: https://lnkd.in/ey-bXK8d
+👉 Incident Response: Information Security Incident Handling: https://lnkd.in/eMpkkBXQ
+👉 IT Career Fundamentals: https://lnkd.in/ekAEwmXE
+👉 Pentesting: https://lnkd.in/eSK45dPb
+👉 Ransomware Techniques: https://lnkd.in/eYfFm3tX
