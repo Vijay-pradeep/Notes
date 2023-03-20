@@ -1,0 +1,19 @@
+
+1. Check for hardcoded credentials.
+2. Check for client-side input validation.
+3. Check for insecure communication protocols.
+4. Check for insecure storage of sensitive data.
+5. Check for lack of authentication/authorization checks.
+6. Check for buffer overflows.
+7. Check for session hijacking.
+8. Check for race conditions.
+9. Check for data leakage.
+10. Check for insecure client-server communication.
+11. Check for application logic flaws.
+12. Check for cross-site scripting.
+13. Check for code injection.
+14. Check for malicious code execution.
+15. Check for unauthorized access/privilege escalation.
+16. Check for malicious intent.
+17. Check for logging and monitoring of application activities.
+18. Check for secure coding best practices.
