@@ -17,3 +17,29 @@
 16. Check for malicious intent.
 17. Check for logging and monitoring of application activities.
 18. Check for secure coding best practices.
+
+=============================================================================================================================
+
+
+i have started to pentest an jnlp thick client for pentesting could you please let me know what are all the check list of items that are needed to be tested  and also let me know what are allhte tools we can use fot this testing ?
+
+
+The checklist for testing a JNLP thick client can vary based on the type of application and the desired results. Generally speaking, the checklist should include: 
+
+1. Verify application behavior and compatibility with the JVM. 
+2. Ensure application is signed with a valid certificate.
+3. Verify that application is not vulnerable to any known code injection vulnerabilities.
+4. Ensure the application does not contain any malicious code or backdoors.
+5. Verify that application is not vulnerable to any known denial of service attacks.
+6. Test for any potential weak authentication mechanisms.
+7. Verify that application does not perform any unauthorized activity or data leakage.
+
+Tools that can be used for testing a JNLP thick client include:
+
+1. Burp Suite
+2. OWASP ZAP
+3. AppScan
+4. Veracode
+5. WebInspect
+6. Acunetix
+7. Nmap
