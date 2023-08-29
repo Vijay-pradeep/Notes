@@ -1,0 +1,42 @@
+Don’t report Information Disclosure, try to use it (Privileges Escalation).
+Don’t report Open Redirect, Escalate it to ATO
+list of some Attacks Topics that You Should do some research and read the Blogs/reports on them.
+
+- SQL Injection Attack
+- Hibernate Query Language Injection
+- Direct OS Code Injection
+- XML Entity Injection
+- Broken Authentication and Session Management
+- Cross-Site Scripting (XSS)
+- Insecure Direct Object References
+- Missing Function Level Access Control
+- Cross-Site Request Forgery (CSRF)
+- Using Components with Known Vulnerabilities
+- Unvalidated Redirects and Forwards
+- ClickJacking Attacks
+- DNS Cache Poisoning
+- Symlinking
+- Remote Code Execution Attacks
+- Remote File inclusion
+- Local file inclusion
+- Denial oF Service Attack
+- PHPwn
+- NAT Pinning
+- XSHM
+- HTTP Parameter Pollution
+- Tabnabbing
+- LDAP injection
+- Log Injection
+- Path Traversal
+- Reflected DOM Injection
+- Repudiation Attack
+- Resource Injection
+- Server-Side Includes (SSI) Injection
+- Session fixation
+- Session hijacking attack
+- Session Prediction
+- Setting Manipulation
+- Special Element Injection
+- SMTP injection
+- Traffic flood
+- XPATH Injection
