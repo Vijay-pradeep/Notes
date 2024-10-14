@@ -1,0 +1,115 @@
+
+
+1. What is SDLC?
+
+
+2. LFI vs RFI vulnerability
+
+
+3. RFI vs RCE
+
+
+4. CSRF vs SSRF
+
+
+5. Define names of some cloud-based vulnerabilities
+
+
+6. Privilege escalation vs IDOR
+
+
+7. Thin client vs Thick client
+
+
+8. What is DOM? How does it work?
+
+
+9. Types of API pentest vulnerabilities
+
+
+10. Software development models
+
+
+11. SAST vs DAST
+
+
+12. In SDLC, when can SAST and DAST be implemented?
+
+
+13. Log4j
+
+
+14. Thick client application tools
+
+
+15. Thin client application tools
+
+
+16. API pentest tools
+
+
+17. IaaS vs PaaS vs SaaS with examples
+
+
+18. Zero-day
+
+
+19. Vulnerability vs Threat vs Risk vs Exploit
+
+
+20. Android pentest tools
+
+
+21. Android vulnerabilities
+
+
+22. URL vs URI
+
+
+23. Android Native Library
+
+
+24. Mass assignment in API
+
+
+25. HTTP Smuggling
+
+
+26. Parameter Pollution
+
+
+27. SSL Pinning
+
+
+28. Broken Object Level Authorization
+
+
+29. Broken Functional Level Authorization
+
+
+30. BAC (Business Access Control)
+
+
+31. IDOR
+
+
+32. CSRF
+
+
+33. SSRF
+
+
+34. Privilege escalation via CSRF (state-changing activities, CSRF + IDOR)
+
+
+35. CSRF: Calculate CIA and define (C: low, I: high, A: medium)
+
+
+36. SSH Regression
+
+37. Race conditions
+
+38. User-level access: How to privilege escalate?
+
+
+
